@@ -36,4 +36,4 @@ The program then prints the cuboid to the terminal.
 
 ## License
 
-Add a license here if you want others to know how they can use this project.
+MIT
